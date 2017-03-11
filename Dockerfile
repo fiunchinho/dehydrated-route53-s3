@@ -37,4 +37,4 @@ ENTRYPOINT ["/opt/dehydrated-0.4.0/dehydrated", "--accept-terms"]
 LABEL org.label-schema.vcs-ref=$vcs_ref \
       org.label-schema.vcs-branch=$vcs_branch \
 	  org.label-schema.build-date=$build_date \
-	  maintainer "jose@armesto.net"
+	  maintainer="jose@armesto.net"
